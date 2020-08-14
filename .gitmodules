@@ -1,0 +1,3 @@
+[submodule "odoo-product_weight_uom"]
+	path = odoo-product_weight_uom
+	url = https://github.com/pafnow/odoo-product_weight_uom
