@@ -6,6 +6,7 @@
     'author': 'Pafnow',
     'category': 'Product',
     'description': 'Calculate product weight based on selected UOM',
+    'images': ['static/description/main_screenshot.png'],
     'data': [
         'views/product_views.xml',
     ],
